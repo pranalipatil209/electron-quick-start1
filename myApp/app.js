@@ -12,7 +12,8 @@ angular.module('myApp', ['ui.router'])
             })
             .state('test',{
                 url:'/test',
-                templateUrl: 'templates/test.html'
+                templateUrl: 'templates/test.html',
+                controller: 'testCtrl'
             })
 
 
