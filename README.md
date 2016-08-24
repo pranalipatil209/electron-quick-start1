@@ -1,5 +1,4 @@
-# electron-quick-start
-#(AngularJS with Electron)
+# electron-quick-start(AngularJS with Electron)
 
 **Clone and run for a quick way to see an Electron in action with AngularJS.**
 
