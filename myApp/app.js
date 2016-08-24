@@ -4,7 +4,7 @@ angular.module('myApp', ['ui.router'])
         $stateProvider
             .state('home', {
                 url: '/home',
-                templateUrl: 'first.html',
+                templateUrl: 'templates/first.html',
                 controller: 'demoCntrl',
                 onEnter: function () {
                     console.log('here');
@@ -12,7 +12,7 @@ angular.module('myApp', ['ui.router'])
             })
             .state('test',{
                 url:'/test',
-                templateUrl: 'test.html'
+                templateUrl: 'templates/test.html'
             })
 
 
