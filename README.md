@@ -1,6 +1,7 @@
 # electron-quick-start
+#(AngularJS with Electron)
 
-**Clone and run for a quick way to see an Electron in action.**
+**Clone and run for a quick way to see an Electron in action with AngularJS.**
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
 
